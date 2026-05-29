@@ -1,5 +1,3 @@
-我来为你编写一个中英双语的 README 文档。
-
 ```markdown
 # AI Robust Regression Tool / AI 鲁棒回归工具
 
